@@ -1,0 +1,19 @@
+.auto-img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+
+.one-text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
